@@ -12,7 +12,7 @@ This repository is still under construction and will be ready soon!
 
 ## Installation
 ```bash
-conda create -n deceptive_nerf python=3.11 
+conda create -n deceptive_nerf python=3.10
 conda activate deceptive_nerf
 conda install pytorch torchvision pytorch-cuda=12.1 -c pytorch -c nvidia  
 pip install tqdm scikit-image opencv-python configargparse lpips imageio-ffmpeg kornia lpips tensorboard
