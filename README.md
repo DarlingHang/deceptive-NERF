@@ -15,7 +15,7 @@ This repository is still under construction and will be ready soon!
 conda create -n deceptive_nerf python=3.11 
 conda activate deceptive_nerf
 conda install pytorch torchvision pytorch-cuda=12.1 -c pytorch -c nvidia  
-pip install -r requirements.txt
+pip install tqdm scikit-image opencv-python configargparse lpips imageio-ffmpeg kornia lpips tensorboard
 ```
 
 ## Download and Process Hypersim
@@ -36,7 +36,7 @@ To use the `download_process.sh` script, provide the base directory and the inde
   ```
 
 ## Citation
-If you find ChatCam useful in your research, please star consider citing:
+If you find ChatCam useful in your research, please consider citing:
 ```
 @article{liu2023deceptive,
     title={Deceptive-NeRF/3DGS: Diffusion-Generated Pseudo-Observations for High-Quality Sparse-View Reconstruction},
