@@ -35,6 +35,12 @@ To use the `download_process.sh` script, provide the base directory and the inde
   ./download_process.sh /home/user/hypersim_data 5
   ```
 
+**Deceptive Diffusion Model Weights:**
+Coming soon!
+
+**Progressice Training Script:**
+Coming soon!
+
 ## Citation
 If you find ChatCam useful in your research, please consider citing:
 ```
