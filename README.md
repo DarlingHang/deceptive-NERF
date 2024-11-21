@@ -42,7 +42,7 @@ Coming soon!
 Coming soon!
 
 ## Citation
-If you find ChatCam useful in your research, please consider citing:
+If you find Deceptive-NeRF/3DGS useful in your research, please consider citing:
 ```
 @article{liu2023deceptive,
     title={Deceptive-NeRF/3DGS: Diffusion-Generated Pseudo-Observations for High-Quality Sparse-View Reconstruction},
